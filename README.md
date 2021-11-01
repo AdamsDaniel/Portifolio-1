@@ -1,3 +1,3 @@
 # Portifolio
 
-Criado para exercício de FREECODECAMP
+Exercício FREECODECAMP. 
